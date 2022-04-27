@@ -1,0 +1,3 @@
+#5c6b7b   kékes szürke
+#cddbeb   vilagos kékes
+#e0e0e0 szürke a szélen
