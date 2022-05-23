@@ -1,3 +1,8 @@
+body {
+  background-color: rgb(240, 220, 195);
+}
+
+
 h1 {
   color:  black;
 }
@@ -9,20 +14,30 @@ p {
 
 div {
   text-align: center;
-
+  
 }
 
 td {
     font-size:larger;
     padding-left: 26px ;
     padding-right: 26px;
-    background-color:bisque;
+    background-color: rgb(240, 220, 195);
     text-align: center;
 }
 
 .magyar {
-  width: 50px;
+  width: 70px;
+  height: 40px;
 }
 .divmagyar {
   text-align: left;
+}
+
+.divangol {
+  text-align: left;
+}
+
+.angol {
+  width: 70px;
+  height: 40px;
 }
