@@ -1,3 +1,18 @@
 h1 {
   color: blue;
 }
+
+
+
+div {
+  text-align: center;
+
+}
+
+td {
+    font-size:larger;
+    padding-left: 26px ;
+    padding-right: 26px;
+    background-color:bisque;
+    text-align: center;
+}
