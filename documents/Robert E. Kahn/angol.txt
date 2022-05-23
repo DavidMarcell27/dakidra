@@ -1,3 +1,2 @@
-Robert " Bob " Elliot Kahn (born December 23, 1938) is an American computer scientist who is known as the "father of the Internet."
+He is an American electrical engineer, who, along with Vint Cerf, first proposed the Transmission Control Protocol (TCP) and the Internet Protocol (IP), the fundamental communication protocols at the heart of the Internet. In 2004, Kahn won the Turing Award with Vint Cerf for their work on TCP/IP. While working on the SATNET satellite packet network project, he came up with the initial ideas for what later became the Transmission Control Protocol (TCP), which was intended as a replacement for an earlier network protocol, NCP, used in the ARPANET.
 
-Together with Vint Cerf, he has developed the Transmission Control Protocol (TCP) and the Internet Protocol (IP), which are used for data transmission in the modern Internet. In 2004 he was awarded the Turing Award and in 2008 the Japan Prize.

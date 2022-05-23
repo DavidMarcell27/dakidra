@@ -1,3 +1,1 @@
-Robert " Bob " Elliot Kahn (1938. december 23. –) amerikai informatikus, akit az "internet atyjaként" ismernek.
-
-Vint Cerf-fel együtt kifejlesztette a TCP (Transmission Control Protocol) és az Internet Protocol (IP) protokollt, amelyeket a modern internet adatátvitelére használnak. 2004-ben Turing-díjat, 2008-ban japán díjat kapott.
+Amerikai villamosmérnök, Vint Cerf mellett először javasolta a Transmission Control Protocol-t (TCP) és az Internet Protocol-t (IP), az alapvető kommunikációs protokollokat az internet szívében. 2004-ben Kahn elnyerte a Turing-díjat Vint Cerffel a TCP/IP-n végzett munkájukért. Miközben a SATNET műholdas csomaghálózati projekten dolgozott, előállt az eredeti ötletekkel, amelyek később a Tcp -vé váltak, amelyet az ARPANET-ben használt korábbi hálózati protokoll, az NCP helyettesítésére szántak.
