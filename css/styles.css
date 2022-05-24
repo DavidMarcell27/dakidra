@@ -49,3 +49,18 @@ td {
     text-align: center;
 
 }
+
+
+#mainDiv {
+  background-color: #5C6B7B;
+  margin: auto;
+  text-align: center;
+  width: 90%;
+}
+
+#secondDiv {
+  background-color: rgb(240, 220, 195);
+  margin: auto;
+  text-align: center;
+  width: 90%;
+}
